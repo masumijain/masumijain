@@ -34,7 +34,7 @@ Beyond building, I also share my journey through personal branding and storytell
 
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7370674795652349952/"><b>The Story of an Unstoppable Dreamer</b></a>
 
-- <a href="https://www.linkedin.com/posts/masumi-jain_hackathon-womenintech-tech-ugcPost-7470545318359515136-8Eqa/"><b>My First Hackathon – ONE WOMAN ARMY</b></a>
+- <a href="https://www.linkedin.com/posts/masumi-jain_hackathon-womenintech-tech-ugcPost-7470545318359515136-8Eqa/"><b>My First Hackathon: ONE WOMAN ARMY</b></a>
 
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7321045480799387648/"><b>My First Letter Of Appreciation</b></a>
 

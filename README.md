@@ -35,7 +35,4 @@ Beyond building, I also share my journey through personal branding and storytell
 ## Featured Posts
 
 - **Unstoppable Dreamer** - https://www.linkedin.com/feed/update/urn:li:activity:7370674795652349952/
-
 - **First Hackathon – ONE WOMAN ARMY** - https://www.linkedin.com/posts/masumi-jain_hackathon-womenintech-tech-ugcPost-7470545318359515136-8Eqa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMRCaEBB-b5ApN9cuxot20mvBethA6SYMY
-
-- **First Letter Of Appreciation** - https://www.linkedin.com/feed/update/urn:li:activity:7321045480799387648/

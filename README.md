@@ -24,7 +24,7 @@ Beyond building, I also share my journey through personal branding and storytell
 
 <p align="center">
   <a href="https://www.linkedin.com/in/masumi-jain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -32,14 +32,11 @@ Beyond building, I also share my journey through personal branding and storytell
 
 ### Featured Posts
 
-- **The Story of an Unstoppable Dreamer**  
-  https://www.linkedin.com/feed/update/urn:li:activity:7370674795652349952/
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7370674795652349952/"><b>The Story of an Unstoppable Dreamer</b></a>
 
-- **My First Hackathon – ONE WOMAN ARMY**  
-  https://www.linkedin.com/posts/masumi-jain_hackathon-womenintech-tech-ugcPost-7470545318359515136-8Eqa/
+- <a href="https://www.linkedin.com/posts/masumi-jain_hackathon-womenintech-tech-ugcPost-7470545318359515136-8Eqa/"><b>My First Hackathon – ONE WOMAN ARMY</b></a>
 
-- **My First Letter Of Appreciation**  
-  https://www.linkedin.com/feed/update/urn:li:activity:7321045480799387648/
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7321045480799387648/"><b>My First Letter Of Appreciation</b></a>
 
 ---
 

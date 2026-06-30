@@ -1,7 +1,8 @@
 <div align="center">
 
-# Ever met someone who’s equally passionate about building things and chai pe charcha? Well, now you have.
-
+<h1 style="color:#0A66C2;">
+  Ever met someone who’s equally passionate about building things and chai pe charcha? Well, now you have.
+</h1>
 ## 💁 Masumi Jain
 
 </div>

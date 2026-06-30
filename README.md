@@ -1,8 +1,6 @@
 <div align="center">
 
-<font color="#0A66C2">
-Ever met someone who’s equally passionate about building things and chai pe charcha? Well, now you have.
-</font>
+![banner](https://dummyimage.com/1200x300/0A66C2/ffffff&text=Ever+met+someone+who%E2%80%99s+equally+passionate+about+building+things+and+chai+pe+charcha%3F+Well%2C+now+you+have.)
 
 ## 💁 Masumi Jain
 

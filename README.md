@@ -2,7 +2,7 @@
 
 # Ever met someone who’s equally passionate about building things and chai pe charcha? Well, now you have.
 
-## 💁 Masumi Jain
+## 💁🏻‍♀️ Masumi Jain
 
 </div>
 

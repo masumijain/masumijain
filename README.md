@@ -1,8 +1,7 @@
 <div align="center">
-
-# Ever met someone who’s equally passionate about building things and chai pe charcha? Well, now you have.
-
-## 💁🏻‍♀️ Masumi Jain
+# Welcome to my corner of the internet.
+  
+## Hello I'm 💁🏻‍♀️ Masumi Jain.
 
 </div>
 
@@ -10,15 +9,12 @@
 
 ### About Me
 
-I'm naturally drawn to messy situations, half-baked ideas, and things that don't work the way they should.
+Fresh graduate interested in cybersecurity, AI agent building, and graphic design.
 
-I've always been drawn to what people silently adjust to instead of fixing.
+I’m interested in building projects that involve **cybersecurity, AI agents, and graphic design**.
 
-Beyond building, I also share my journey through personal branding and storytelling on LinkedIn.
+I enjoy working on ideas, experimenting with tools, and turning concepts into real projects.
 
-**On to building, breaking, and exploring new crazy stuff.**
-
----
 
 ### Connect With Me
 
@@ -28,17 +24,6 @@ Beyond building, I also share my journey through personal branding and storytell
   </a>
 </p>
 
----
-
-### Featured Posts
-
-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7370674795652349952/"><b>The Story of an Unstoppable Dreamer</b></a>
-
-- <a href="https://www.linkedin.com/posts/masumi-jain_hackathon-womenintech-tech-ugcPost-7470545318359515136-8Eqa/"><b>My First Hackathon : ONE WOMAN ARMY</b></a>
-
-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7321045480799387648/"><b>My First Letter Of Appreciation</b></a>
-
----
 
 <div align="center">
 

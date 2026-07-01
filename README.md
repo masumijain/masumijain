@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 # Welcome to my corner of the internet.
-  
-## Hello I'm 💁🏻‍♀️ Masumi Jain.
+
+## Hello, I'm 💁🏻‍♀️ Masumi Jain.
 
 </div>
 
@@ -10,11 +10,8 @@
 
 ### About Me
 
-Fresh graduate interested in cybersecurity, AI agent building, and graphic design.
-
-I’m interested in building projects that involve **cybersecurity, AI agents, and graphic design**.
-
-I enjoy working on ideas, experimenting with tools, and turning concepts into real projects.
+Fresh graduate with an interest in cybersecurity, AI agents, and graphic design. 
+Self-learner — I pick up tools and concepts on my own, mostly by building small projects and figuring things out as I go.
 
 
 ### Connect With Me

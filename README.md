@@ -11,6 +11,7 @@
 ### About Me
 
 Fresh graduate with an interest in cybersecurity, AI agents, and graphic design. 
+
 Self-learner — I pick up tools and concepts on my own, mostly by building small projects and figuring things out as I go.
 
 
@@ -23,7 +24,7 @@ Self-learner — I pick up tools and concepts on my own, mostly by building smal
 </p>
 
 
-<div align="center">
+<div align="left">
 
 Building. Breaking. Learning. Rebuilding.
 
